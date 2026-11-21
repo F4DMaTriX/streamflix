@@ -1,0 +1,79 @@
+{
+  "active_providers": [
+    "Netflix (TMDb)",
+    "AnimeBoX",
+    "MX Player",
+    "FLiXZO-1",
+    "HdMovie2",
+    "AnimeBoX-1"
+  ],
+  "latest_version": "1.0.0",
+  "min_version": "1.0.0",
+  "force_update": false,
+  "apk_url": "https://github.com/...",
+  "release_notes": "- Initial release",
+  "download_enabled": true,
+  "settings_help_url": "https://github.com/...",
+  "settings_telegram_web_url": "https://t.me/stream...",
+  "settings_telegram_app_url": "tg://resolve?domain=...",
+
+  "watchanimeworld_base_url": "https://watchanimeworld.one",
+  "watchanimeworld_name": "AnimeBoX",
+  "watchanimeworld_logo": "https://watchanimeworld.top/wp-content/uploads/AW_Smiley.png",
+  "watchanimeworld_lang": "hi",
+
+  "mplayer_base_url": "https://www.mxplayer.in",
+  "mplayer_name": "MX Player",
+  "mplayer_logo": "https://play-lh.googleusercontent.com/bHZQwbrHCqmpAJfOyTnoch-cG5KSk_1pgMiYnJGbmuZu38SnNYoNB9_sAP3MJSuS4wEzgYYYo9CEsd9-U0BEFQ",
+  "mplayer_lang": "hi",
+  "mplayer_image_url": "https://qqcdnpictest.mxplay.com/",
+  "mplayer_web_api": "https://api.mxplayer.in/v1/web",
+  "mplayer_endpoint_url": "https://d3sgzbosmwirao.cloudfront.net/",
+
+  "moviebox_base_url": "https://api3.aoneroom.com",
+  "moviebox_name": "FLiXZO-1",
+  "moviebox_logo": "https://img.icons8.com/color/96/000000/movie.png",
+  "moviebox_lang": "hi",
+  "moviebox_secret_key_default": "NzZpUmwwN3MweFNOOWpxbUVXQXQ3OUVCSlp1bElRSXNWNjRGWnIyTw==",
+  "moviebox_secret_key_alt": "WHFuMm5uTzQxL0w5Mm8xaXVYaFNMSFRiWHZZNFo1Wlo2Mm04bVNMQQ==",
+
+  "hdmovie2_base_url": "https://hdmovie2a.asia",
+  "hdmovie2_name": "HdMovie2",
+  "hdmovie2_logo": "https://hdmovie2a.asia/wp-content/uploads/2026/08/Hdmovie2-logo-for-google.png",
+  "hdmovie2_lang": "hi",
+
+  "animesalt_base_url": "https://animesalt.cx",
+  "animesalt_name": "AnimeBoX-1",
+  "animesalt_logo": "https://assets.simon.com/tenantlogos/32357.png",
+  "animesalt_lang": "multi",
+
+  "awsstream_main_url": "https://z.awstream.net",
+  "awsstream_alias_urls": [
+    "https://as-cdn21.top",
+    "https://as-cdn26.top",
+    "https://ravok.buzz",
+    "https://play.zephyrix.org"
+  ],
+
+  "hdm2_main_url": "https://hdm2.biz",
+  "hdm2_alias_urls": [
+    "https://prvs.top",
+    "https://hdm2.xyz",
+    "https://hdm2.lat"
+  ],
+
+  "movy_main_url": "https://api.movy.lol",
+  "movy_alias_urls": [
+    "https://api.movy.lol",
+    "https://img.animecurx.tech"
+  ],
+  "movy_api_key": "0f461eaa465bb2a7acd037425217f2f209ef540a3171e1ac",
+
+  "play4u_main_url": "https://play4u.org",
+  "play4u_alias_urls": [
+    "https://playdrive.vip"
+  ],
+
+  "vidout_main_url": "https://vidout.pages.dev",
+  "vidout_api_url": "https://raw.githubusercontent.com/Watchout2025/api/refs/heads/main/hls"
+}
